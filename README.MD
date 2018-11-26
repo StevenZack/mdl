@@ -1,5 +1,12 @@
 # mdl
 
+# Hosted files
+```html
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://stevenzack.github.io/mdl/mdl.min.css">
+  <script defer src="https://stevenzack.github.io/mdl/mdl.min.js"></script>
+ ```
 # Usage
 
 main.go
@@ -44,3 +51,4 @@ index.html
 </body>
 </html>
 ```
+
